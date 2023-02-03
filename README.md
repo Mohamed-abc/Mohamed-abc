@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Mohamed-abc
-- 👀 I’m interested in  Deep Learning and forex trading
-- 🌱 I’m currently learning Deep Learning and forex trading
-- 💞️ I’m looking to collaborate on Deep Learning and forex trading
+- 👀 I’m interested in  Deep Learning and algorithmic trading
 - 📫 How to reach me: 04.mohamed.a@gmail.com
