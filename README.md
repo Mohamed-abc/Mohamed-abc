@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Mohamed-abc
-- 👀 I’m interested in  Deep Learning and algorithmic trading
+- 👀 I’m interested in Sofware Development, Deep Learning and algorithmic trading
 - 📫 How to reach me: 04.mohamed.a@gmail.com
