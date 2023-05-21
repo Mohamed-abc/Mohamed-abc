@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Mohamed-abc
-- 👀 I’m interested in swe, AI and Robotics!
+- 👀 I’m interested in swe, Data Science and Robotics!
 - 📫 How to reach me: 04.mohamed.a@gmail.com
